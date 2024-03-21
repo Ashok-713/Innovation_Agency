@@ -1,0 +1,208 @@
+Innovation🚀- Get Best Designs
+
+
+
+#......... HEADER ..........#
+
+Innovation🚀
+
+Innovation🚀
+
+aria-labe = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Services
+Features
+Testimonials
+Contact Us
+
+<ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
+Get A Quote
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+
+
+#......... HERO ..........#
+
+We Are Product Designers From India
+
+We Create Innovative Solutions
+
+We Craft User-Centric Experiences
+
+
+Learn More
+
+alt = hero-banner
+
+
+
+#......... ABOUT ..........#
+
+alt = about banner
+
+Why Our Agency
+
+Our agency boasts a team of seasoned professionals who possess unparalleled expertise in their respective fields. From skilled developers capable of crafting intricate and functional websites to strategists who delve deep into market research to ensure optimal outcomes, we offer a comprehensive suite of talents under one roof.
+
+We believe that transparency and client involvement are paramount to success, and we strive to keep our clients informed and engaged every step of the way.
+
+
+5321
+Satisfied Clients
+
+7894
+Project Lunched
+
+25
+Years Completed
+
+
+
+
+
+#......... SERVICE ..........#
+
+Our Speciallization
+
+<ion-icon name="telescope-outline"></ion-icon>
+
+Strategy & Research
+
+Our Strategy & Research service involves meticulous analysis and planning, guiding businesses towards informed decisions and market dominance.
+
+aria-label = Show More
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+<ion-icon name="desktop-outline"></ion-icon>
+
+Web Development
+
+Experience seamless functionality and captivating design with our agency's top-tier web development solutions, crafted with precision and innovation for your success.
+
+
+
+<ion-icon name="globe-outline"></ion-icon>
+
+Web Designs
+
+Transform your vision into reality with our agency's expert web design service, where creativity meets functionality to deliver visually stunning and user-friendly websites.
+
+
+
+
+
+
+
+
+#......... FEATURES ..........#
+
+Our Features
+
+<ion-icon name="bulb-outline"></ion-icon>
+Idea & Analysis
+
+Uncovering insights and innovative concepts to drive strategic decisions.
+
+<ion-icon name="color-palette-outline"></ion-icon>
+Designing
+
+alt = Features Banner
+
+<ion-icon name="code-slash-outline"></ion-icon>
+Development
+
+<ion-icon name="rocket-outline"></ion-icon>
+Testing & Lunching
+
+
+
+
+
+#......... Our Testimonials ..........#
+
+Our Testimonials
+
+alt = Vestibulum massa arcu, consectetu pellentesque scelerisque.
+
+Dr. Aryan Jha (CEO of Apple)
+
+<ion-icon name="time-outline"></ion-icon>
+7 March, 2022
+
+aria-label = Comment
+
+<ion-icon name="chatbubble-outline"></ion-icon>
+15
+
+aria-label = Share
+<ion-icon name="share-social-outline"></ion-icon>
+
+
+Exceptional attention to detail and unparalleled expertise make this agency 
+
+a standout in the industry
+
+
+
+#......... FOOTER ..........#
+
+Desinic
+
+Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+Our links
+
+Home
+About Us
+Services
+Team
+Blog
+
+Our Services
+
+Strategy & Research
+Web Development
+Web Solution
+Digital Marketing
+App Design
+
+Other links
+
+FAQ
+Portfolio
+Privacy Policy
+Terms & Conditions
+Support
+
+Contact Us
+
+<ion-icon name="call"></ion-icon>
++91 687452197952
+011 224875392
+
+<ion-icon name="mail"></ion-icon>
+info@innovation.com
+help@innovation.com
+
+<ion-icon name="location"></ion-icon>
+Pahalgam, Jammu and Kashmir , India
+
+&copy; 2022 innovation. All Right Reserved
+
+
+
+
+
+#......... GO TO TOP ..........#
+
+aria-label = Go To Top
+<ion-icon name="arrow-up-outline"></ion-icon>
